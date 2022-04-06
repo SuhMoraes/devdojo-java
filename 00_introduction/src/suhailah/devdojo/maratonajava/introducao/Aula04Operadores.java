@@ -1,5 +1,7 @@
 package suhailah.devdojo.maratonajava.introducao;
 
+import javax.print.attribute.SetOfIntegerSyntax;
+
 public class Aula04Operadores {
     public static void main(String[] args) {
         int num01 = 10;
@@ -38,13 +40,32 @@ public class Aula04Operadores {
         double valorTotalContaConcorrente = 200;
         double valorTotalContaPoupança = 10000;
         float valorPlaystation = 5000f;
-
         boolean isPlaystation5Compravel = valorTotalContaConcorrente > valorPlaystation || valorTotalContaPoupança > valorPlaystation;
         System.out.println(isPlaystation5Compravel);
 
         // = += -= /= %=
         double bonus = 1800;
-        double bonus = bonus + 1000;
+        // double bonus = bonus + 1000;
+        bonus+=100;
+        System.out.println("Bonus:" + bonus);
+        bonus-=200;
+        System.out.println("Bonus:" + bonus);
+        bonus/=4;
+        System.out.println("Bonus:" + bonus);
+        bonus%=200;
+        System.out.println("Bonus:" + bonus);
+
+        // Operadores Aritméticos Unários
+        int contador = 0;
+        contador += 1; // contador = contador + 1;
+        System.out.println(contador);
+        contador++;
+        contador--;
+        System.out.println(contador);
+        ++contador;
+        --contador;
+        System.out.println(contador);
+
 
     }
 }
