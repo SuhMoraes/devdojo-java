@@ -1,0 +1,22 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨Ë£Êÿÿÿÿÿ8¸ „ñ„1
+c
+java:S1226)"AIntroduce a new variable instead of reusing the parameter "num1".(øÊîôúÿÿÿÿ8º „ñ„1
+c
+java:S1226*"AIntroduce a new variable instead of reusing the parameter "num2".(’ÀçÓùÿÿÿÿ8º „ñ„1
+W
+java:S3518":Make sure "num2" can't be zero before doing this division.(Ùó˜8Ê „ñ„1
+[
+java:S3516"9Refactor this method to not always return the same value.(‚²¿Èúÿÿÿÿ8Ë „ñ„1
+t
+java:S4144<"XUpdate this method so that its implementation is not identical to "somaArry" on line 49.(úÕ	8“ğ…ñ„1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(»µÍ‘8Ñ „ñ„1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ‘Şÿÿÿÿÿ8Ó „ñ„1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÍÛƒ8Õ „ñ„1
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(«Ğ“Úÿÿÿÿÿ8Ù „ñ„1
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(òô–8Ù „ñ„1
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(‡éÓ8Ü „ñ„1
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(•ö™Åùÿÿÿÿ8Ü „ñ„1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(û£°Èúÿÿÿÿ8İ „ñ„1
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ÂÛõøÿÿÿÿ8Ş „ñ„1
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(ÂÛõøÿÿÿÿ8¡ğ…ñ„1

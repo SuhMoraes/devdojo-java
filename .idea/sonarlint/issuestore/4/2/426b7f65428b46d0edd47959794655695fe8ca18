@@ -1,0 +1,9 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶Êœùûÿÿÿÿ8Ù–×™…1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(´ËþÆýÿÿÿÿ8æ–×™…1
+X	java:S125("<This block of commented-out lines of code should be removed.(¿›»ß8æ–×™…1
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ÿ±¨™8ç–×™…1
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(”ä÷‹8è–×™…1
+Z
+java:S11172"8Rename "media" which hides the field declared at line 8.(¤ÎÐúÿÿÿÿ8é–×™…1
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(†À…–8ùº×™…1
