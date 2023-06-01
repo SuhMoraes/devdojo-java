@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.javacore.Csobrecargametodos.test;
 
-import academy.devdojo.maratonajava.javacore.Csobrecargametodos.dominio.Carro;
+import academy.devdojo.maratonajava.javacore.Csobrecargametodos.domain.Carro;
 
 public class CarroTest01 {
     public static void main(String[] args) {

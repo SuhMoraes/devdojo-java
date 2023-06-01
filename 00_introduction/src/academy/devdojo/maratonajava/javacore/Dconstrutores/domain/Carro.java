@@ -26,7 +26,7 @@ public class Carro {
         this.fabricante = fabricante;
     }
 
-    // Mwtodos
+    // Métodos
     public void init(String nome, String tipo, double motor, char combustível) {
         this.nome = nome;
         this.tipo = tipo;
