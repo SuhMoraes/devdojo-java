@@ -12,17 +12,14 @@ public class JogadorTest03 {
         Jogador[] jogadores = {jogador, jogador1, jogador2};
 
         jogador.setTime(time);
+        time.setJogadores(jogadores);
 
+        System.out.println("--- Jogador ---");
+        jogador.imprime();
 
         System.out.println("--- Time ---");
 
         time.imprime();
 
-        System.out.println("--- Jogador ---");
-
-
-        time.setJogadores(jogadores);
-
-        jogador.imprime();
     }
 }
