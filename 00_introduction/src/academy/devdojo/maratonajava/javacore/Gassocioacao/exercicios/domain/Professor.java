@@ -12,6 +12,7 @@ public class Professor {
         System.out.println("-----");
         System.out.println("Professor: " + this.nome);
         if(this.seminarios == null) return;
+
         System.out.println("## Seminarios Cadastrados ##");
         for (Seminario seminario : this.seminarios) {
             System.out.println(seminario.getTitulo());

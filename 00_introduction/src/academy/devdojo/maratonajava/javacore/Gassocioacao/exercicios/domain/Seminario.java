@@ -10,8 +10,9 @@ public class Seminario {
     public Seminario() {
     }
 
-    public Seminario(String titulo) {
+    public Seminario(String titulo, Local local) {
         this.titulo = titulo;
+        this.local = local;
     }
 
     public Seminario(String titulo, Aluno[] alunos, Local local) {
