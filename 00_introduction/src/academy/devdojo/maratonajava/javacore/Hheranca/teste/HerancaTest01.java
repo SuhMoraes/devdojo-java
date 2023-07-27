@@ -7,14 +7,14 @@ import academy.devdojo.maratonajava.javacore.Hheranca.dominio.Pessoa;
 public class HerancaTest01 {
 
     public static void main(String[] args) {
-
-        Endereco endereco = new Endereco("Maria Fernanda");
+        Pessoa pessoa = new Pessoa("Maria Fernanda");
+        Endereco endereco = new Endereco();
         endereco.setCep("012345-209");
         endereco.setRua("Rua Maravilha");
 
         System.out.println("----------------------");
 
-        Funcionario funcionario = new Funcionario();
+        Funcionario funcionario = new Funcionario("Maria Fernanda");
         funcionario.setSalario(6900.00);
         funcionario.setNome("Sabrina Moraes");
         funcionario.setCpf("789.456.123-89");
