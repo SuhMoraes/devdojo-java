@@ -1,6 +1,4 @@
 
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 è
 _00_introduction/src/academy/devdojo/maratonajava/introducao/Aula06EstruturaDeRepeti√ß√£o05.java,e\7\e7f204f177e003f42d07099da360d16c7bb7b33f
 
@@ -67,8 +65,6 @@ Y00_introduction/src/academy/devdojo/maratonajava/javacore/Dconstrutores/domain/
 _00_introduction/src/academy/devdojo/maratonajava/javacore/Eblocoinicializacao/domain/Anime.java,8\d\8d56054d69557b952def4822f84f6f67c853af03
 ë
 a00_introduction/src/academy/devdojo/maratonajava/javacore/Eblocoinicializacao/test/AnimeTest.java,4\d\4d74e9bb7847d5d59069d2d00b9dee5976649ff6
-í
-b00_introduction/src/academy/devdojo/maratonajava/javacore/Fmodificadoresestatico/domain/Carro.java,8\3\836eb03d927c1e2c4bfbf7c2492510165ca5cc64
 î
 d00_introduction/src/academy/devdojo/maratonajava/javacore/Fmodificadoresestatico/test/AnimeTest.java,1\b\1b5ec7b72118821179e1777075e86e930259da8e
 é
@@ -81,3 +77,11 @@ Y00_introduction/src/academy/devdojo/maratonajava/javacore/Gassocioacao/domain/E
 \00_introduction/src/academy/devdojo/maratonajava/javacore/Gassocioacao/domain/Professor.java,3\5\35468f2120f5e665a353b2eb08bb4032eb60d68c
 ç
 ]00_introduction/src/academy/devdojo/maratonajava/javacore/Gassocioacao/test/EscolaTest01.java,8\4\8413c665cafa02b9c1982a4b49e1a4da0fa838b7
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+á
+W00_introduction/src/academy/devdojo/maratonajava/javacore/Kenum/domain/TipoCliente.java,1\d\1d6d0ba31fc86fea3753e8f6c919cf7e43aea2d2
+Ü
+V00_introduction/src/academy/devdojo/maratonajava/javacore/Kenum/test/ClientTest01.java,7\c\7cdaa7075a96ee09a3b8c555ba0be4662665bae9
+É
+S00_introduction/src/academy/devdojo/maratonajava/javacore/Kenum/domain/Cliente.java,a\3\a32536b8111c52c8469c41b252922cc6393a9dae
